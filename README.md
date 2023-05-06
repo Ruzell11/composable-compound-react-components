@@ -1,4 +1,4 @@
-Simple Product Card React Component
+<h1><b>Simple Product Card React Component</b></h1>
 
 
 This repository contains a composable and compound React component for a simple product card.
